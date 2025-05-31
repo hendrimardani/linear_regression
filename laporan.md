@@ -180,7 +180,7 @@ Langkah selanjutkan kita akan membuat model dengan bantuan modul _sklearn_ selan
 * Untuk rumus **Standarisasi** sama seperti rumus **_z-score_**
 * Rumus **_mean_absolute_error_**
 
-## $\sum{|y1-  y2|}{/n}$
+## $ \sum{|y1-  y2|}{/n}$
 
 Dengan:
 * y1 = nilai aktual pada fitur
