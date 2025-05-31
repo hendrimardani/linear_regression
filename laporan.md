@@ -88,7 +88,7 @@ Langkah selanjutnya setiap data pasti memiliki _outlier_ batas ambang dalam sebu
 
 Untuk tahapan pada kali ini teknik penghapusan _outlier_ bermacam-macam, namun dalam hal ini menggunakan teknik _Z-score_ dengan menggunakan rumus sebagai berikut:
 
-## **Z = (x-$\alpha$ ) / $\varphi$**
+## **Z = (x-$ \alpha$ ) / $\varphi$**
 
 Dengan :
 
